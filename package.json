@@ -15,11 +15,12 @@
     "vue": "3.4.6"
   },
   "devDependencies": {
+    "@antfu/eslint-config": "2.6.2",
     "@vitejs/plugin-vue": "5.0.2",
+    "eslint": "10.10.0",
     "typescript": "5.3.3",
     "vite": "5.0.11",
-    "vue-tsc": "1.8.27",
-    "@antfu/eslint-config": "2.6.2",
-    "eslint": "8.56.0"
-  }
+    "vue-tsc": "1.8.27"
+  },
+  "packageManager": "pnpm@10.34.5+sha512.a4ee05f2f73658255bd6a89859c065a45c28a57daefae2c893a168ee2b73168c37b91e83e57ea67654ad03f03031746430e8bce38e362e042605fb8abc80192e"
 }

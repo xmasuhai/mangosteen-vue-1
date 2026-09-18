@@ -23,3 +23,5 @@ dist-ssrll
 *.njsproj
 *.sln
 *.sw?
+
+.aicodequalityrisk
